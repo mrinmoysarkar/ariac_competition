@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/mrinmoysarkar/Desktop/gear.urdf.xacro
+  SRDF:
+    relative_path: config/gear.srdf
+  CONFIG:
+    generated_timestamp: 1480815941

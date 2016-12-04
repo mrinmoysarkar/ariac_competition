@@ -1,0 +1,8 @@
+prefix=/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/install
+
+Name: moveit_config
+Description: Description of moveit_config
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/install/lib 
+Requires: 

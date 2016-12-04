@@ -1,6 +1,6 @@
-devel_space: /home/pagol/ariac_competition/ariac_ws/devel
+devel_space: /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/devel
 install: false
-install_space: /home/pagol/ariac_competition/ariac_ws/install
+install_space: /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/install
 profile: default
-source_space: /home/pagol/ariac_competition/ariac_ws/src
-workspace: /home/pagol/ariac_competition/ariac_ws
+source_space: /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/src
+workspace: /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws

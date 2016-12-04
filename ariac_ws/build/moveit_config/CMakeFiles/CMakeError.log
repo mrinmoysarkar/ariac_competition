@@ -1,0 +1,53 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec4270132675/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4270132675.dir/build.make CMakeFiles/cmTryCompileExec4270132675.dir/build
+make[1]: Entering directory `/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4270132675.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec4270132675.dir/CheckSymbolExists.c.o   -c /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec4270132675
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4270132675.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec4270132675.dir/CheckSymbolExists.c.o  -o cmTryCompileExec4270132675 -rdynamic 
+CMakeFiles/cmTryCompileExec4270132675.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec4270132675] Error 1
+make: *** [cmTryCompileExec4270132675/fast] Error 2
+
+File /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2589950009/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2589950009.dir/build.make CMakeFiles/cmTryCompileExec2589950009.dir/build
+make[1]: Entering directory `/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2589950009.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec2589950009.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2589950009
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2589950009.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec2589950009.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2589950009 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/build/moveit_config/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec2589950009] Error 1
+make: *** [cmTryCompileExec2589950009/fast] Error 2
+
+

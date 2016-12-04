@@ -1,8 +1,8 @@
-prefix=/home/pagol/ariac_competition/ariac_ws/devel/.private/gear_example
+prefix=/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/devel/.private/gear_example
 
 Name: gear_example
 Description: Description of gear_example
 Version: 0.1.0
 Cflags: 
-Libs: -L/home/pagol/ariac_competition/ariac_ws/devel/.private/gear_example/lib 
+Libs: -L/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/devel/.private/gear_example/lib 
 Requires: 

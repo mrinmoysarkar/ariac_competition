@@ -1,1 +1,1 @@
-/home/pagol/ariac_competition/ariac_ws/devel/.private/catkin_tools_prebuild/setup.bash
+/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/devel/.private/catkin_tools_prebuild/setup.bash

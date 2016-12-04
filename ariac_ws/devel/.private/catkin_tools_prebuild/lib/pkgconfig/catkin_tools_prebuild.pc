@@ -1,8 +1,8 @@
-prefix=/home/pagol/ariac_competition/ariac_ws/devel/.private/catkin_tools_prebuild
+prefix=/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/devel/.private/catkin_tools_prebuild
 
 Name: catkin_tools_prebuild
 Description: Description of catkin_tools_prebuild
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/pagol/ariac_competition/ariac_ws/devel/.private/catkin_tools_prebuild/lib 
+Libs: -L/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/devel/.private/catkin_tools_prebuild/lib 
 Requires: 
