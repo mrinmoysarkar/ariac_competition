@@ -1,0 +1,3 @@
+source ./devel/setup.bash
+rosrun IM_pkg motion_planning_node
+

@@ -1,8 +1,0 @@
-prefix=/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/install
-
-Name: gear_example
-Description: Description of gear_example
-Version: 0.1.0
-Cflags: 
-Libs: -L/home/mrinmoysarkar/ariac_competition/ariac_competition/ariac_ws/install/lib 
-Requires: 
