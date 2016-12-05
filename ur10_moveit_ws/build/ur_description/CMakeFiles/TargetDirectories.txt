@@ -1,0 +1,8 @@
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/build/ur_description/CMakeFiles/_catkin_empty_exported_target.dir
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/build/ur_description/CMakeFiles/clean_test_results.dir
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/build/ur_description/CMakeFiles/download_extra_data.dir
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/build/ur_description/CMakeFiles/doxygen.dir
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/build/ur_description/gtest/CMakeFiles/gtest.dir
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/build/ur_description/gtest/CMakeFiles/gtest_main.dir
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/build/ur_description/CMakeFiles/run_tests.dir
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/build/ur_description/CMakeFiles/tests.dir

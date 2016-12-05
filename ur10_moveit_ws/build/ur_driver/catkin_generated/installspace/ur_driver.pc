@@ -1,0 +1,8 @@
+prefix=/home/mrinmoy/ariac_competition/ur10_moveit_ws/install
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.1.6
+Cflags: -I/home/mrinmoy/ariac_competition/ur10_moveit_ws/install/include
+Libs: -L/home/mrinmoy/ariac_competition/ur10_moveit_ws/install/lib 
+Requires: dynamic_reconfigure

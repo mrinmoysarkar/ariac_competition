@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_description/setup.sh

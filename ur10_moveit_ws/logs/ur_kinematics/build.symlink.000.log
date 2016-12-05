@@ -1,0 +1,9 @@
+Symlinking /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/lib/libur3_kin.so
+Symlinking /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/lib/libur3_moveit_plugin.so
+Symlinking /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/lib/libur5_kin.so
+Symlinking /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/lib/libur10_kin.so
+Symlinking /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/lib/libur10_moveit_plugin.so
+Symlinking /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/lib/libur5_moveit_plugin.so
+Symlinking /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/lib/pkgconfig/ur_kinematics.pc
+Symlinking /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
+Symlinking /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake

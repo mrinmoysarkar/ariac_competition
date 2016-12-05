@@ -1,0 +1,6 @@
+devel_space: /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel
+install: false
+install_space: /home/mrinmoy/ariac_competition/ur10_moveit_ws/install
+profile: default
+source_space: /home/mrinmoy/ariac_competition/ur10_moveit_ws/src
+workspace: /home/mrinmoy/ariac_competition/ur10_moveit_ws

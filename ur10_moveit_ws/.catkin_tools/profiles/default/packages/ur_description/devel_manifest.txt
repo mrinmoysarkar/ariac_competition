@@ -1,0 +1,4 @@
+ur_description
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_description/lib/pkgconfig/ur_description.pc /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/lib/pkgconfig/ur_description.pc
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig.cmake /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/share/ur_description/cmake/ur_descriptionConfig.cmake
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig-version.cmake /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/share/ur_description/cmake/ur_descriptionConfig-version.cmake

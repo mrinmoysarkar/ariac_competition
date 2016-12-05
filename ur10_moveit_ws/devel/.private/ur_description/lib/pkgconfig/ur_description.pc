@@ -1,0 +1,8 @@
+prefix=/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_description
+
+Name: ur_description
+Description: Description of ur_description
+Version: 1.1.6
+Cflags: 
+Libs: -L/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_description/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/mrinmoy/ariac_competition/ur10_moveit_ws/install
+
+Name: ur_msgs
+Description: Description of ur_msgs
+Version: 1.1.6
+Cflags: -I/home/mrinmoy/ariac_competition/ur10_moveit_ws/install/include
+Libs: -L/home/mrinmoy/ariac_competition/ur10_moveit_ws/install/lib 
+Requires: message_runtime std_msgs

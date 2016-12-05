@@ -1,0 +1,1 @@
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_driver/lib/pkgconfig/ur_driver.pc

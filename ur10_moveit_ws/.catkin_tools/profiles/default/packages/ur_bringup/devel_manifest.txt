@@ -1,0 +1,4 @@
+ur_bringup
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_bringup/lib/pkgconfig/ur_bringup.pc /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/lib/pkgconfig/ur_bringup.pc
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/share/ur_bringup/cmake/ur_bringupConfig-version.cmake
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig.cmake /home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/share/ur_bringup/cmake/ur_bringupConfig.cmake

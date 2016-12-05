@@ -1,0 +1,1 @@
+/home/mrinmoy/ariac_competition/ur10_moveit_ws/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake
