@@ -11,7 +11,7 @@ sensors:
   proximity_sensor_1:
     type: proximity_sensor
     pose:
-      xyz: [1, 4.4, 1]
+      xyz: [0.8, 4.4, 1]
       rpy: [0, 0, 0]
   logical_camera_1:
     type: logical_camera

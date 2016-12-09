@@ -1,2 +1,2 @@
 source ./devel/setup.bash
-roslaunch moveit_config moveit_config_test.launch
+roslaunch gear_moveit_config gear_moveit_config_test.launch

@@ -1,0 +1,2 @@
+
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/mrinmoy/ariac_competition/gear_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mrinmoy/ariac_competition/gear_ws/install -G Unix Makefiles
